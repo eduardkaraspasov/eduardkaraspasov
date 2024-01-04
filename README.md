@@ -1,4 +1,4 @@
-### Hi there 👋  [![](https://visitcount.itsvg.in/api?id=eduardkaraspasov&icon=2&color=7)](https://visitcount.itsvg.in)
+### Hi there 👋 My name is Eduard Karaspasov [![](https://visitcount.itsvg.in/api?id=eduardkaraspasov&icon=2&color=7)](https://visitcount.itsvg.in)
 
 - 🌱 I’m currently learning Back-End Test Automation
 - 💬 Ask me about anything
